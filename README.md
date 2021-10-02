@@ -7,7 +7,7 @@
 - [x]  Pesquisar por matérias científicos complementares
 - [x]  Reorganizar árvore de decisões
 - [ ]  Entrega do trabalho
-- [ ]  Feedback da professora
+- [ ]  Feedback 
 - [ ]  Possíveis correções
 
 
@@ -22,6 +22,4 @@
 * [Dsenvolvimento iterativo e incremnetal](https://pt.wikipedia.org/wiki/Desenvolvimento_iterativo_e_incremental)
 * [Iterativo e incremental: suas definições](https://www.culturaagil.com.br/iterativo-e-incremental-suas-definicoes/)
 * [Choosing a Model - Georgia Tech - Software Development Process](http://ecomputernotes.com/software-engineering/criteria-for-selecting-software-process-models)
-* [x](http://ecomputernotes.com/software-engineering/criteria-for-selecting-software-process-models)
-*
-*
+* [PMKB: modelos para avaliar a complexidade](https://pmkb.com.br/artigos/modelos-para-avaliar-complexidade/)
