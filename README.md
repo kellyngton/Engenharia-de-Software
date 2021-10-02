@@ -1,7 +1,8 @@
 # Engenharia de Software
- Código Disciplina: 8103151
+ Código Disciplina: ``8103151``
 
-     TAREFAS
+
+<h3>Tarefas</h3>
 
 - [x]  Pesquisar por matérias científicos complementares
 - [x]  Reorganizar árvore de decisões
