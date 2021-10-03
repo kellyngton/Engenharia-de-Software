@@ -16,10 +16,6 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 - [ ]  Possíveis correções
 
 
-<img src= "https://github.com/kellyngton/Engenharia-de-software/blob/main/Engenharia%20de%20soft.pdf"> Protótipo </img>
-
-
-
 <h3>Referências</h3>
 
 * [DSDM](https://l.facebook.com/l.php?u=https%3A%2F%2Fprezi.com%2F9oyzbeuh7yaz%2Fdsdm-metodologia-de-desenvolvimento-de-sistemas-dinamicos%2F&h=ATPqsI19SCtR51n21Mx-jmHlDeH_fQwxBLi7nNYb5CkCDE7R_MkRQQsa8kDTiRfRr_GteWorGfVFABQkOBCuMkI2-ScMFTEHHVhZ39oarRdOE7Lm_rJFGqW4y1qA1U72bbLH4c_8ZcIucA)
