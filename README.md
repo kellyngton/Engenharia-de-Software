@@ -2,14 +2,21 @@
  Código Disciplina: ``8103151``
 
 
+Pequena árvore de decisão baseada nos modelos de processos existentes com ojetivo de mensurar o melhor caminho a ser adotado.
+<h3>Definição</h3>
+ 
+__Modelo de Processos__ é a representação de um determinado estado do negócio (atual ou futuro) e dos respectivos recursos envolvidos, tais como pessoas, informação, instalações, automação, finanças e energia.
+
 <h3>Tarefas</h3>
 
-- [x]  Pesquisar por matérias científicos complementares
+- [x]  Pesquisar por matérias científicos complementares 
 - [x]  Reorganizar árvore de decisões
 - [ ]  Entrega do trabalho
 - [ ]  Feedback 
 - [ ]  Possíveis correções
 
+
+<img src= "https://github.com/kellyngton/Engenharia-de-software/blob/main/Engenharia%20de%20soft.pdf"> Protótipo </img>
 
 
 
@@ -23,3 +30,4 @@
 * [Iterativo e incremental: suas definições](https://www.culturaagil.com.br/iterativo-e-incremental-suas-definicoes/)
 * [Choosing a Model - Georgia Tech - Software Development Process](http://ecomputernotes.com/software-engineering/criteria-for-selecting-software-process-models)
 * [PMKB: modelos para avaliar a complexidade](https://pmkb.com.br/artigos/modelos-para-avaliar-complexidade/)
+
