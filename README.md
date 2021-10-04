@@ -26,4 +26,5 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 * [Iterativo e incremental: suas definições](https://www.culturaagil.com.br/iterativo-e-incremental-suas-definicoes/)
 * [Choosing a Model - Georgia Tech - Software Development Process](http://ecomputernotes.com/software-engineering/criteria-for-selecting-software-process-models)
 * [PMKB: modelos para avaliar a complexidade](https://pmkb.com.br/artigos/modelos-para-avaliar-complexidade/)
+* [Um guia essencial para criar e gerenciar equipes em cascata](https://hygger.io/blog/an-essential-guide-to-creating-and-managing-waterfall-teams/)
 
