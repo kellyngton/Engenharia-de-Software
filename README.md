@@ -2,7 +2,7 @@
  Código Disciplina: ``8103151``
 
 
-Pequena árvore de decisão baseada nos modelos de processos existentes com ojetivo de mensurar o melhor caminho a ser adotado.
+Pequena árvore de suporte a decisão baseada nos modelos de processos existentes com ojetivo de mensurar o melhor caminho a ser adotado.
 <h3>Definição</h3>
  
 __Modelo de Processos__ é a representação de um determinado estado do negócio (atual ou futuro) e dos respectivos recursos envolvidos, tais como pessoas, informação, instalações, automação, finanças e energia.
