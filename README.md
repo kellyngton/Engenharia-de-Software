@@ -12,7 +12,7 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 - [x]  Pesquisar por matérias científicos complementares 
 - [x]  Reorganizar árvore de decisões
 - [x]  Definir projeto final 
-- [ ]  Entrega do trabalho
+- [x]  Entrega do [Projeto](https://github.com/kellyngton/Engenharia-de-software/issues/4)
 - [ ]  Feedback 
 - [ ]  Revisão do prjeto
 
