@@ -11,9 +11,10 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 
 - [x]  Pesquisar por matérias científicos complementares 
 - [x]  Reorganizar árvore de decisões
+- [x]  Definir projeto final 
 - [ ]  Entrega do trabalho
 - [ ]  Feedback 
-- [ ]  Possíveis correções
+- [ ]  Revisão do prjeto
 
 
 <h3>Referências</h3>
@@ -27,6 +28,7 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 * [Choosing a Model - Georgia Tech - Software Development Process](http://ecomputernotes.com/software-engineering/criteria-for-selecting-software-process-models)
 * [PMKB: modelos para avaliar a complexidade](https://pmkb.com.br/artigos/modelos-para-avaliar-complexidade/)
 * [Um guia essencial para criar e gerenciar equipes em cascata](https://hygger.io/blog/an-essential-guide-to-creating-and-managing-waterfall-teams/)
-* Juliana Saraiva
-  * [RUP](https://github.com/kellyngton/Engenharia-de-software/issues/2)
-  * [Metodologias Ágeis](https://github.com/kellyngton/Engenharia-de-software/issues/3)
+> * Juliana Saraiva
+>>   * [RUP](https://github.com/kellyngton/Engenharia-de-software/issues/2)
+>>   * [Metodologias Ágeis](https://github.com/kellyngton/Engenharia-de-software/issues/3)
+* [Software Engineering — Software Process and Software Process Models (Part 2)](https://medium.com/omarelgabrys-blog/software-engineering-software-process-and-software-process-models-part-2-4a9d06213fdc)
