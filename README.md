@@ -32,3 +32,4 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 >>   * [RUP](https://github.com/kellyngton/Engenharia-de-software/issues/2)
 >>   * [Metodologias Ágeis](https://github.com/kellyngton/Engenharia-de-software/issues/3)
 * [Software Engineering — Software Process and Software Process Models (Part 2)](https://medium.com/omarelgabrys-blog/software-engineering-software-process-and-software-process-models-part-2-4a9d06213fdc)
+* [Feature Driven Development (FDD) and Agile Modeling](http://www.agilemodeling.com/essays/fdd.htm)
