@@ -7,15 +7,23 @@ Pequena árvore de suporte a decisão baseada nos modelos de processos existente
  
 __Modelo de Processos__ é a representação de um determinado estado do negócio (atual ou futuro) e dos respectivos recursos envolvidos, tais como pessoas, informação, instalações, automação, finanças e energia.
 
+
 <h3>Tarefas</h3>
 
 - [x]  Pesquisar por matérias científicos complementares 
 - [x]  Reorganizar árvore de decisões
 - [x]  Definir projeto final 
 - [x]  Entrega do [Projeto](https://github.com/kellyngton/Engenharia-de-software/issues/4)
-- [ ]  Feedback 
+- [x]  Feedback 
 - [ ]  Revisão do prjeto
 
+<h3>Relatos</h3>
+
+ Durante a construção percebemos a abstração semântica de conteúdo para conteúdo. Alguns autores definem, por exemplo, que uma equipe é considerada grande quando contém mais de quinze participantes, já outros tem uma compreensão um pouco diferente, ou seja, temos pequenas variações. Vale resaltar que o __intuito de uma árvore de suporte a decisão__ é nortear o time para decisão de qual modelo(s) poderá(am) ser adotado(s) na sua solução, vale ressaltar que, assim como basicamente tudo no mundo da programação, não existe um único modelo correto a ser utilizado, é possivel apresentar várias soluções diferentes para um mesmo problema. 
+ 
+ <h3>Instruções</h3>
+ 
+  A consulta desta árvore pode ser feita basicamente de duas maneira: uma consulta isolada que é feita quando o time decide por fazer a consulta em apenas 1 atributo que, por sua vez, filtra os modelos possíveis e traz uma lista mais definida de alguns dos modelos a que podem ser selecionados; uma consulta composta de diversos atributos que é feita quando o time decide ter mais "variáveis", uma variedade mais de atributos que, somando as indicações individuais, irá perceber que para vários atributos, determinado modelo tem mais recomdações em cada atributo desejado do que outros.   
 
 <h3>Referências</h3>
 
@@ -33,3 +41,5 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
 >>   * [Metodologias Ágeis](https://github.com/kellyngton/Engenharia-de-software/issues/3)
 * [Software Engineering — Software Process and Software Process Models (Part 2)](https://medium.com/omarelgabrys-blog/software-engineering-software-process-and-software-process-models-part-2-4a9d06213fdc)
 * [Feature Driven Development (FDD) and Agile Modeling](http://www.agilemodeling.com/essays/fdd.htm)
+* [How to Estimate the Cost of Software Development](https://www.spheregen.com/cost-of-software-development/)
+* [Como montar um planejamento de curto, médio e longo prazo](https://www.treasy.com.br/blog/planejamento-de-curto-medio-e-longo-prazo/)
