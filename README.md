@@ -18,7 +18,7 @@ Pequena árvore de suporte a decisão baseada nos modelos de processos existente
 __Modelo de Processos__ é a representação de um determinado estado do negócio (atual ou futuro) e dos respectivos recursos envolvidos, tais como pessoas, informação, instalações, automação, finanças e energia.
 
 <h3>Relatos</h3>
- Durante a construção percebemos a abstração semântica de conteúdo para conteúdo. Alguns autores definem, por exemplo, que uma equipe é considerada grande quando contém mais de quinze participantes, já outros têm uma compreensão um pouco diferente, ou seja, temos pequenas variações. Vale ressaltar que o __intuito de uma árvore de suporte__ a decisão  é nortear o time para decisão de qual modelo(s) poderá(ão) ser adotado(s) na sua solução, vale ressaltar que, assim como basicamente tudo no mundo da programação, não existe um único modelo correto a ser utilizado, é possível apresentar várias soluções diferentes para um mesmo problema. 
+ Durante a construção percebemos a abstração semântica de conteúdo para conteúdo. Alguns autores definem, por exemplo, que uma equipe é considerada grande quando contém mais de quinze participantes, já outros têm uma compreensão um pouco diferente, ou seja, temos pequenas variações. Vale ressaltar que o __intuito da árvore de suporte a decisão__  é nortear o time para decisão de qual modelo(s) poderá(ão) ser adotado(s) na sua solução, vale ressaltar que, assim como basicamente tudo no mundo da programação, não existe um único modelo correto a ser utilizado, é possível apresentar várias soluções diferentes para um mesmo problema. 
  
  <h3>Instruções</h3>
  
