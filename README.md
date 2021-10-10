@@ -11,7 +11,8 @@ Pequena árvore de suporte a decisão baseada nos modelos de processos existente
 - [x]  Definir projeto final 
 - [x]  Entrega do [Projeto](https://github.com/kellyngton/Engenharia-de-software/blob/main/Projeto_Final.pdf)
 - [x]  Feedback 
-- [ ]  Revisão do prjeto
+- [x]  Revisão do projeto
+- [ ]  [Projeto final](https://github.com/kellyngton/Engenharia-de-software/blob/main/Árvore-de-supporte-a-decisão(correção).pdf)
 
 <h3>Definição</h3>
  
