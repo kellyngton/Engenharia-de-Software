@@ -24,7 +24,7 @@ __Modelo de Processos__ é a representação de um determinado estado do negóci
  
  <h3>Instruções</h3>
  
-  [A consulta desta árvore](https://github.com/kellyngton/Engenharia-de-software/blob/main/%C3%81rvore%20de%20suporte%20a%20decis%C3%A3o(corre%C3%A7%C3%A3o).pdf) pode ser feita basicamente de duas maneira: uma consulta isolada que é feita quando o time decide por fazer a consulta em apenas 1 atributo que, por sua vez, filtra os modelos possíveis e traz uma lista mais definida de alguns dos modelos a que podem ser selecionados; uma consulta composta de diversos atributos que é feita quando o time decide ter mais "variáveis", uma variedade mais de atributos que, somando as indicações individuais, irá perceber que para vários atributos, determinado modelo tem mais recomdações em cada atributo desejado do que outros.   
+  [A consulta desta árvore](https://github.com/kellyngton/Engenharia-de-software/blob/main/%C3%81rvore%20de%20suporte%20a%20decis%C3%A3o(corre%C3%A7%C3%A3o).pdf) pode ser feita basicamente de duas maneira: uma consulta isolada que é feita quando o time decide por fazer a consulta em apenas 1 atributo que, por sua vez, filtra os modelos possíveis e traz uma lista mais definida de alguns dos modelos a que podem ser selecionados; uma consulta composta de diversos atributos que é feita quando o time decide ter mais "variáveis", uma variedade mais de atributos que, somando as indicações individuais, irá perceber que para vários atributos, determinado modelo tem mais recomendações em cada atributo desejado do que outros.   
 
 <h3>Referências</h3>
 
